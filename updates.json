@@ -3,6 +3,36 @@
     "family-site-blocker@parental-controls.local": {
       "updates": [
         {
+          "version": "1.1.2",
+          "update_link": "https://adviseworn.github.io/family-site-blocker-updates/family-site-blocker-1.1.2.xpi",
+          "update_hash": "sha256:13920b63e4c12666a1415db41edff25ff7ebc5728543a72a39e1eac02da99a79",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "update_link": "https://adviseworn.github.io/family-site-blocker-updates/family-site-blocker-1.2.0.xpi",
+          "update_hash": "sha256:75902201eab418db4496a2589989ab8314f7466f5ac379aa3126e0a2126803a7",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "update_link": "https://adviseworn.github.io/family-site-blocker-updates/family-site-blocker-1.2.1.xpi",
+          "update_hash": "sha256:6ac1a269b7f8c03fc03b1ccfd549906726b1364e7ab6a224953c6cc34089ac6c",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        },
+        {
           "version": "1.3.0",
           "update_link": "https://adviseworn.github.io/family-site-blocker-updates/family-site-blocker-1.3.0.xpi",
           "update_hash": "sha256:ee549e8e610c7d88bea162b0f75ffbf04dedac077705bfd259b662d151f549f5",
