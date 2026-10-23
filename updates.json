@@ -151,6 +151,16 @@
               "strict_min_version": "140.0"
             }
           }
+        },
+        {
+          "version": "1.5.2",
+          "update_link": "https://adviseworn.github.io/family-site-blocker-updates/family-site-blocker-1.5.2.xpi",
+          "update_hash": "sha256:02beaf9660a4956c5727059ee79f961072881aedec497b3127d071792edff62b",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
         }
       ]
     }
